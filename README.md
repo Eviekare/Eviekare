@@ -3,9 +3,13 @@
 👨‍💻 Technical Skills:
 
 Programming: Java, C++, Python, SQL
+
 Databases: MySQL, PostgreSQL
+
 Web Technologies: HTML, CSS, JavaScript
+
 Data Science: Machine Learning, Data Analysis, Pandas, NumPy
+
 🚀 Projects & Experience:
 
 Developed a restaurant management system using Java and MySQL to streamline operations.
